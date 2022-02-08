@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\workers.intra365.com-source"
+		},
+		{
+			"path": "..\\frontend.intra365.net-source"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-azuretools.vscode-azureappservice",
+			"ms-vscode.azure-account",
+			"ms-azuretools.vscode-azurestorage",
+			"eamodio.gitlens"
+		]
+	}
+}
